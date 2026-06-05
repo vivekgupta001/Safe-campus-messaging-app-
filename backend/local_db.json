@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "_id": "001cd1a82fd97fcc44451f27",
+      "email": "vivek123@gmail.edu",
+      "password": "$2a$10$UzIGPNtee3GJYCSFogqvE.lA0IMqZaU0lUzdxGzrvjZZmS9eKetn.",
+      "pseudonym": "vivek",
+      "avatar": "🦊",
+      "gender": "male",
+      "interests": [
+        "Gaming",
+        "Hiking",
+        "Photography"
+      ],
+      "collegeIdUrl": "/uploads/collegeId-1780480411805-866194209.png",
+      "role": "user",
+      "isApproved": true,
+      "isOnline": false,
+      "isMutedOrBanned": false,
+      "createdAt": "2026-06-03T09:53:32.070Z",
+      "updatedAt": "2026-06-03T11:34:41.291Z"
+    },
+    {
+      "_id": "1dba924e5ba19155e9557f08",
+      "email": "vivek1234@gmail.edu",
+      "password": "$2a$10$o2b31D5yOYg75c6ZCdtyy.PnoUFKZYvh0PHjwSZHPb50Txo3x51fS",
+      "pseudonym": "komal",
+      "avatar": "🦊",
+      "gender": "male",
+      "interests": [
+        "Gaming",
+        "Coding",
+        "Drama",
+        "Tech"
+      ],
+      "collegeIdUrl": "/uploads/collegeId-1780485930392-86716096.png",
+      "role": "user",
+      "isApproved": true,
+      "isOnline": false,
+      "isMutedOrBanned": false,
+      "createdAt": "2026-06-03T11:25:30.533Z",
+      "updatedAt": "2026-06-03T11:34:42.445Z"
+    },
+    {
+      "_id": "2345ffc78b97606e7184a5a1",
+      "email": "admin@gmail.edu",
+      "password": "$2a$10$aun7AroH/KRG97egyfPlYetDGczQedz8XD.7tctdT902pck45crYS",
+      "pseudonym": "admin",
+      "avatar": "🦊",
+      "gender": "male",
+      "interests": [
+        "Gaming",
+        "Coding",
+        "Drama",
+        "Tech"
+      ],
+      "collegeIdUrl": "/uploads/collegeId-1780486454197-123849094.png",
+      "role": "admin",
+      "isApproved": true,
+      "isOnline": false,
+      "isMutedOrBanned": false,
+      "createdAt": "2026-06-03T11:34:14.375Z",
+      "updatedAt": "2026-06-03T11:34:14.375Z"
+    },
+    {
+      "_id": "79e818c48972dc0c629e76c1",
+      "email": "vivek@gmail.com",
+      "password": "$2a$10$0BwmvRTBP1ZeR.vHbzEP2.QP0weC/evJL.4EKoeosA3QK0LD9HWnq",
+      "pseudonym": "alok",
+      "avatar": "🦊",
+      "gender": "male",
+      "interests": [
+        "Gaming",
+        "Anime",
+        "Movies",
+        "Art"
+      ],
+      "collegeIdUrl": "/uploads/collegeId-1780486630443-52317707.jpg",
+      "role": "user",
+      "isApproved": true,
+      "isOnline": false,
+      "isMutedOrBanned": false,
+      "createdAt": "2026-06-03T11:37:10.567Z",
+      "updatedAt": "2026-06-03T11:37:30.793Z"
+    }
+  ],
+  "friendships": [],
+  "messages": [],
+  "reports": []
+}
